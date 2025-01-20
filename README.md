@@ -1,5 +1,3 @@
-# qnn-financial-fraud-detection
-
 # Quantum Machine Learning for Financial Fraud Detection
 A quantum machine learning implementation using PennyLane for fraud detection in financial transactions.
 ## Project Structure
